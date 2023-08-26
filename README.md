@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bev0129so
-- 👀 Skills Java Kotlin Vue and Rust
+- 👀 Skills Java Go and some frontend 
 
 <!---
 bev0129so/bev0129so is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
